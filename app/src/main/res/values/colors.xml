@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="background_color">#031e4f</color>
+    <color name="favicon_color">#5c0334</color>
+    <color name="underline_color">#194709</color>
+    <color name="bold_color">#6910A2</color>
+
+</resources>
